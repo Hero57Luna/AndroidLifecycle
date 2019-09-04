@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 	protected void onStart() {
 		super.onStart();
 		Toast.makeText(this, "App on Start", Toast.LENGTH_SHORT).show();
+
 	}
 
 
